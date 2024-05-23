@@ -12,7 +12,7 @@ import java.util.List;
 
 public class OpCommand implements CommandExecutor, TabCompleter {
 
-    private static final String PASSWORD = "B@DLYAC";
+    private static final String PASSWORD = "PASSWORD";
 
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
