@@ -1,0 +1,11 @@
+name: Plugin
+version: 1.0
+main: org.badlyac.PluginMain
+api-version: 1.20
+commands:
+  rtp:
+    description: Allow all player to teleport
+  gop:
+  rop:
+  home:
+
